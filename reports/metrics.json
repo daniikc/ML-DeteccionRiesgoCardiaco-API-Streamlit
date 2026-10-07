@@ -1,0 +1,15 @@
+{
+  "trained_at": "2026-10-04T20:13:56",
+  "params": {
+    "n_estimators": 100,
+    "max_depth": 3,
+    "learning_rate": 0.05
+  },
+  "test_metrics": {
+    "accuracy": 0.9885931558935361,
+    "precision": 0.9818181818181818,
+    "recall": 1.0,
+    "f1": 0.9908256880733946,
+    "roc_auc": 0.9931243124312431
+  }
+}
